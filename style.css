@@ -2,3 +2,10 @@
     max-height: 60rem;
     overflow: hidden;
 }
+.fts {
+    font-size: .7rem;
+}
+@media screen and (min-width:800px) {
+    /* .mxh-img { column-count: 12;}
+    .mxh-text { column-count: 12;} */
+}
